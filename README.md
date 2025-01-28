@@ -1,4 +1,4 @@
-![MasterHead](https://raw.githubusercontent.com/CAmmanabrolu/CAmmanabrolu/refs/heads/main/Frame%201.png)
+
 <h1 align="center">Hi 👋, I'm Ammanabrolu Chetan Shankar</h1>
 <h3 align="center">I am a CS undergraduate at SRM University, I blend technology and creativity to build impactful digital solutions.</h3>
 <img align="right" alt="Coding" width="400" src="freepik__the-style-is-candid-image-photography-with-natural__16033.jpg">
