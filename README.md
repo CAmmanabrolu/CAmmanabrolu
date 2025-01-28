@@ -1,4 +1,4 @@
-[![MasterHead](Frame 1.jpg)
+[![MasterHead]([Frame 1.jpg](https://github.com/CAmmanabrolu/CAmmanabrolu/commit/4a7eda2158f8d6dcc159cfccca5676d1e276d446#diff-f88507e5c4512978c6d35556531dad700b6d5c3899a4cf71d88f923946ade997))
 <h1 align="center">Hi 👋, I'm Ammanabrolu Chetan Shankar</h1>
 <h3 align="center">I am a CS undergraduate at SRM University, I blend technology and creativity to build impactful digital solutions.</h3>
 <img align="right" alt="Coding" width="400" src="freepik__the-style-is-candid-image-photography-with-natural__16033.jpg">
