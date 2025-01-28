@@ -1,4 +1,4 @@
-[![MasterHead](https://x.com/CAmmanabrolu/header_photo)
+[![MasterHead](Frame1.jpg)
 <h1 align="center">Hi 👋, I'm Ammanabrolu Chetan Shankar</h1>
 <h3 align="center">I am a CS undergraduate at SRM University, I blend technology and creativity to build impactful digital solutions.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
