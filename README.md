@@ -1,8 +1,8 @@
 
-<h1 align="center">Hi  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px" height="30px">, I'm Ammanabrolu Chetan Shankar</h1>
-<h3 align="center">A passionate developer from India who Consistently Try to Try :)
+<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px" height="30px"> I'm Ammanabrolu Chetan Shankar</h1>
+<h3 align="center">A Passionate Developer Who Consistently Try to Try :)
 </h3>
-<img align="right" alt="Coding" width="400" src="freepik__the-style-is-candid-image-photography-with-natural__16033.jpg">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cammanabrolu&label=Profile%20views&color=0e75b6&style=flat" alt="cammanabrolu" /> </p>
 
