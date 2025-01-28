@@ -1,7 +1,7 @@
-[![MasterHead](Frame1.jpg)
+[![MasterHead](Frame 1.jpg)
 <h1 align="center">Hi 👋, I'm Ammanabrolu Chetan Shankar</h1>
 <h3 align="center">I am a CS undergraduate at SRM University, I blend technology and creativity to build impactful digital solutions.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="Frame 1.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cammanabrolu&label=Profile%20views&color=0e75b6&style=flat" alt="cammanabrolu" /> </p>
 
