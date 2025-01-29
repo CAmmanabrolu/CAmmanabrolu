@@ -19,7 +19,7 @@
 
 - 🔥 Chasing Innovation
   
-- 📫 How to reach me **chetanshankar.ammanabrolu121@gmail.com**
+- 📫 How to reach me: **chetanshankar.ammanabrolu121@gmail.com**
 
 
 - 📝Check Out My Portfolio Here: [Chetan Shankar's Portfolio](https://bento.me/ammanabrolu-chetan-shankar)
