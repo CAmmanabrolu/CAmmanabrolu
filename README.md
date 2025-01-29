@@ -25,99 +25,65 @@
 - 📝Check Out My Portfolio Here: [Chetan Shankar's Portfolio](https://bento.me/ammanabrolu-chetan-shankar)
 
 
+<h3>⚡🎯 GitHub Stats & Activity </h3>
+
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=cammanabrolu&show_icons=true&locale=en&theme=radical&hide_border=true" alt="cammanabrolu" /></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com?user=cammanabrolu&theme=radical&hide_border=true" alt="cammanabrolu" /></td>
+    <td>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cammanabrolu&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="cammanabrolu" />
+</td>
+  </tr>
+</table>
+<div align="center">
+
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cammanabrolu&theme=radical&hide_border=true" alt='Profile'/>
+</div>
+
+<h2 >🤖⚡Languages And Tools:</h2>
+<table align="center">
+<tr>
+   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" width="65" height="65" alt="C"/><br><b>C (Language)</b></td>
+   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/c.svg" width="65" height="65" alt="C++"/><br><b>C++ (Language)</b></td>
+   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/java-14.svg" width="65" height="65" alt="Java"/><br><b>Java (Language)</b></td>
+   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" width="65" height="65" alt="Python"/><br><b>Python (Language)</b></td>
+   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="65" height="65" alt="HTML"/><br><b>HTML (Markup)</b></td>
+   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="65" height="65" alt="CSS"/><br><b>CSS (Stylesheet)</b></td>
+   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" width="65" height="65" alt="JavaScript"/><br><b>JavaScript (Language)</b></td>
+   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" width="65" height="65" alt="Tailwind"/><br><b>Tailwind (Framework)</b></td>
+   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" width="65" height="65" alt="React"/><br><b>React JS (Library)</b></td>
+   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="65" height="65" alt="NodeJS"/><br><b>Node JS (Runtime)</b></td>
+   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1-1.svg" width="65" height="65" alt="MongoDB"/><br><b>MongoDB (Database)</b></td>
+</tr>
+</table>
+<br>
+
+
+
+
 
 
 <h3 align="left">🌐 Connect with Me:</h3>
 <p align="left">
   <a href="https://x.com/CAmmanabrolu" target="_blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/X_logo.jpg/600px-X_logo.jpg" alt="Twitter" height="30" width="40" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/X_logo.jpg/600px-X_logo.jpg" alt="Twitter" height="30" width="40" style="margin-right: 10px;" />
   </a>
   <a href="https://linkedin.com/in/cammanabrolu" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" style="margin-right: 10px;" />
   </a>
   <a href="https://www.codechef.com/users/chetanshankar" target="_blank">
-    <img align="center" src="https://i.pinimg.com/474x/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" alt="CodeChef" height="30" width="40" />
+    <img align="center" src="https://i.pinimg.com/474x/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" alt="CodeChef" height="30" width="40" style="margin-right: 10px;" />
   </a>
   <a href="https://www.leetcode.com/cammanabrolu" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" style="margin-right: 10px;" />
   </a>
   <a href="https://www.geeksforgeeks.org/user/chetanshankaraew70/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" />
   </a>
+  <a href="https://codeforces.com/profile/CHETANSHANKAR" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" 
+       alt="Codeforces - Chetan Shankar" height="35" width="45" style="margin: 10px;" />
+</a>
+
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30px" />
-  </a>
-  <a href="https://reactnative.dev/" target="_blank">
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="30px" />
-  </a>
-  <a href="https://nextjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="30px" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30px" />
-  </a> 
-  <a href="https://vitejs.dev/" target="_blank">
-    <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/62091613/261395532-b40892ef-efb8-4b0e-a6b5-d1cfc2f3fc35.png" alt="Vite" title="Vite" width="30px" />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="Tailwind CSS" title="Tailwind CSS" width="30px" />
-  </a>
-  <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" alt="Firebase" title="Firebase" width="30px" />
-  </a>
-  <a href="https://turbo.build/repo" target="_blank">
-    <img src="https://user-images.githubusercontent.com/4060187/196936104-5797972c-ab10-4834-bd61-0d1e5f442c9c.png" alt="Turborepo" title="Turborepo" width="30px" />
-  </a>
-   <a href="https://nodejs.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30px" />
-  </a> 
-  <a href="https://expressjs.com/" target="_blank">
-    <img src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="Express" title="Express" width="30px" />
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank">
-    <img src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" title="PostgreSQL" width="30px" />
-  </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="30px" />
-  </a>
-  <a href="https://www.java.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30px" />
-  </a>
-  <a href="https://bitbucket.org/" target="_blank">
-    <img src="https://user-images.githubusercontent.com/25181517/192108375-268c35e6-ab26-44b2-88bf-e3121a4e5083.png" alt="Bitbucket" title="Bitbucket" width="30px" />
-  </a>
-  <a href="https://developer.android.com/studio" target="_blank">
-    <img src="https://user-images.githubusercontent.com/25181517/192108895-20dc3343-43e3-4a54-a90e-13a4abbc57b9.png" alt="Android Studio" title="Android Studio" width="30px" />
-  </a>
-  <a href="https://developer.apple.com/xcode/" target="_blank">
-    <img src="https://user-images.githubusercontent.com/25181517/186711578-bf30cb30-40b7-4b45-95a5-bdf837c372e7.png" alt="Xcode" title="Xcode" width="30px" />
-  </a>
-  <a href="https://www.postman.com/" target="_blank">
-    <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" title="Postman" width="30px" />
-  </a>
-  <a href="https://www.figma.com/" target="_blank">
-    <img src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="Figma" title="Figma" width="30px" />
-  </a>
-  <a href="https://mui.com/" target="_blank">
-    <img src="https://user-images.githubusercontent.com/25181517/189716630-fe6c084c-6c66-43af-aa49-64c8aea4a5c2.png" alt="Material UI" title="Material UI" width="30px" />
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30px" />
-  </a>  
-  <a href="https://cloud.google.com" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="30px" />
-  </a> 
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30px" />
-  </a> 
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cammanabrolu&show_icons=true&locale=en&layout=compact" alt="cammanabrolu" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cammanabrolu&show_icons=true&locale=en" alt="cammanabrolu" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cammanabrolu&" alt="cammanabrolu" /></p>
