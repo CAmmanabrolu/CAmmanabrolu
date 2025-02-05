@@ -28,9 +28,15 @@
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=cammanabrolu&show_icons=true&locale=en&theme=radical&hide_border=true" alt="cammanabrolu" /></td>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com?user=cammanabrolu&theme=radical&hide_border=true" alt="cammanabrolu" /></td>
-    <td><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cammanabrolu&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="cammanabrolu" /></td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=CAmmanabrolu&show_icons=true&locale=en&theme=radical&hide_border=true" alt="CAmmanabrolu" >
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=CAmmanabrolu&show_icons=true&locale=en&theme=radical&hide_border=true" alt="CAmmanabrolu" >
+    </td>
+    <td>
+      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=CAmmanabrolu&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="CAmmanabrolu" >
+    </td>
   </tr>
 </table>
 <div align="center">
